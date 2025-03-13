@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hello! I'm ABID066
 
-<!--
-**ABID066/ABID066** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub followers](https://img.shields.io/github/followers/ABID066?style=social)
+![GitHub stars](https://img.shields.io/github/stars/ABID066?style=social)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate developer with a love for coding and problem-solving. I enjoy working on exciting projects and always eager to learn new technologies.
+
+- 💻 Software Developer
+- 🎓 Lifelong Learner
+- 🌍 Open Source Contributor
+- 🚀 Tech Enthusiast
+
+## Skills
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+
+### Tools & Platforms
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+## Projects
+
+### [Project 1: Awesome Project](https://github.com/ABID066/awesome-project)
+A brief description of the awesome project. 
+
+### [Project 2: Another Cool Project](https://github.com/ABID066/another-cool-project)
+A brief description of another cool project.
+
+## Contact Info
+
+- 📫 Email: [abid066@example.com](mailto:abid066@example.com)
+- 💼 LinkedIn: [linkedin.com/in/abid066](https://www.linkedin.com/in/abid066/)
+- 🐦 Twitter: [@abid066](https://twitter.com/abid066)
+
+Feel free to reach out if you'd like to connect or collaborate on a project!
