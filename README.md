@@ -35,18 +35,11 @@ I'm a passionate developer with a love for coding and problem-solving. I enjoy w
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## Projects
-
-### [Project 1: Awesome Project](https://github.com/ABID066/awesome-project)
-A brief description of the awesome project. 
-
-### [Project 2: Another Cool Project](https://github.com/ABID066/another-cool-project)
-A brief description of another cool project.
 
 ## Contact Info
 
-- 📫 Email: [abid066@example.com](mailto:abid066@example.com)
-- 💼 LinkedIn: [linkedin.com/in/abid066](https://www.linkedin.com/in/abid066/)
-- 🐦 Twitter: [@abid066](https://twitter.com/abid066)
+- 📫 Email: [sayadbinkamrul@gmail.com](mailto:sayadbinkamrul@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/sayad66](https://www.linkedin.com/in/sayad66/)
+
 
 Feel free to reach out if you'd like to connect or collaborate on a project!
