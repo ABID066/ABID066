@@ -1,7 +1,5 @@
 # 👋 Hello! I'm ABID066
 
-![GitHub followers](https://img.shields.io/github/followers/ABID066?style=social)
-![GitHub stars](https://img.shields.io/github/stars/ABID066?style=social)
 
 ## About Me
 
