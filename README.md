@@ -35,7 +35,7 @@ I'm a passionate developer with a love for coding and problem-solving. I enjoy w
 ## Contact Info
 
 - 📫 Email: [sayadbinkamrul@gmail.com](mailto:sayadbinkamrul@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/sayad66](https://www.linkedin.com/in/sayad66/)
+- 💼 LinkedIn: [linkedin.com/in/sayad06](https://www.linkedin.com/in/sayad06/)
 
 
 Feel free to reach out if you'd like to connect or collaborate on a project!
