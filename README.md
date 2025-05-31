@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a passionate developer with a love for coding and problem-solving. I enjoy working on exciting projects and always eager to learn new technologies.
+I'm a passionate developer with a love for coding and problem-solving. I enjoy working on exciting projects and always eager to learn new technologies. 
 
 - 💻 Software Developer  
 - 🎓 Lifelong Learner  
